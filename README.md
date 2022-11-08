@@ -14,7 +14,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iman24)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iman24)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
